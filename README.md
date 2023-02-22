@@ -5,8 +5,11 @@ Demo ⬇️
 
 
 <img src="https://github.com/Nephilim433/Color-Switch-Game/blob/master/demo/1.gif"/>
+
 <img src="https://github.com/Nephilim433/Color-Switch-Game/blob/master/demo/2.gif"/>
+
 <img src="https://github.com/Nephilim433/Color-Switch-Game/blob/master/demo/3.gif"/>
+
 <img src="https://github.com/Nephilim433/Color-Switch-Game/blob/master/demo/4.gif"/>
 
 
